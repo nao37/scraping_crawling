@@ -11,7 +11,6 @@ for partial_html in re.findall(r'<a itemprop="url".*?</ul>\s*</a></li>', html, r
     title = re.search(r'<p itemprop="name".*?</p>', partial_html).group(0)
     title = re.sub(r'<br/>', ' ', title)
     title = re.sub(r'<.*?>', '', title)
-    # title = re.sub(r'&amp;', '&', title)
     title = unescape(title)
 
     print(url, title)
