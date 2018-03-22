@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>http://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2018</copyright>
+ <lastBuildDate>Thu, 22 Mar 2018 23:22:01 +0900</lastBuildDate>
+ <image>
+  <url>http://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>http://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2018年3月第4週号 1位は，ユーザーフレンドリーなフォームを作るためのヒント，気になるネタは，カシオの「ゲーム電卓」復活 シューティング搭載「SL-880」38年ぶりに ── 週刊Webテク通信</title>
+  <link>http://gihyo.jp/design/clip/01/weekly-web-tech/201803/22</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2018年3月12日～3月18日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 22 Mar 2018 11:25:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>http://gihyo.jp/design/clip/01/weekly-web-tech/201803/22</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>第25回　Atlassian製品とTableauを連携させて，いろいろと分析してみよう（前編） ── うまくいくチーム開発のツール戦略</title>
+  <link>http://gihyo.jp/dev/serial/01/teamdev-toolstrategy/0025</link>
+  <description>DevOpsやITIL，ソフトウェアのアジャイル開発などで多くの企業で活用されているAtlassian製品ですが，非技術系の用途でも使われています。たとえば，マーケティング，営業，総務，法務，人事，経理，庶務などです。</description>
+  <pubDate>Thu, 22 Mar 2018 10:15:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/teamdev-toolstrategy">うまくいくチーム開発のツール戦略</category>
+  <guid>http://gihyo.jp/dev/serial/01/teamdev-toolstrategy/0025</guid> 
+  <author>三井貴博</author>
+ </item>
+ <item>
+  <title>第1回　三部作の表紙がつながるってすごいよね ── 羽生章洋『はじめよう！システム設計』刊行記念特別インタビュー～角征典から見た2018年の上流工程とカスタマーエクスペリエンスの時代</title>
+  <link>http://gihyo.jp/news/interview/01/getting-started/0001</link>
+  <description>2018年1月に羽生章洋著『はじめよう！ システム設計 ～要件定義のその後に』が発刊され，2015年から続く『はじめよう！ 要件定義 ～ビギナーからベテランまで』『はじめよう！ プロセス設計 ～要件定義のその前に』の上流工程三部作が完結しました。</description>
+  <pubDate>Thu, 22 Mar 2018 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/interview/01/getting-started">羽生章洋『はじめよう！システム設計』刊行記念特別インタビュー～角征典から見た2018年の上流工程とカスタマーエクスペリエンスの時代</category>
+  <guid>http://gihyo.jp/news/interview/01/getting-started/0001</guid> 
+  <author>羽生章洋，角征典</author>
+ </item>
+ <item>
+  <title>2018年3月第4週　Android Wearが「Wear OS by Google」に変更 ── Android Weekly Topics</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/awt/201803/22</link>
+  <description>2018年3月第4週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 22 Mar 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/awt/201803/22</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>「Python Boot Camp」4/21に千葉県柏市で開催 ── インフォメーション</title>
+  <link>http://gihyo.jp/news/info/2018/03/2001</link>
+  <description>Python Boot Campは，一般社団法人PyCon JPが主催するPythonを学べるチュートリアル講座。</description>
+  <pubDate>Tue, 20 Mar 2018 16:34:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/info">インフォメーション</category>
+  <guid>http://gihyo.jp/news/info/2018/03/2001</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>奈良県立磯城野高校にて実践型体験ワークショップ「つくりかたの未来講座」開催～アドビ・慶應SFC研究所・県教委による産学官一体となった未来の教育への取り組み ── レポート</title>
+  <link>http://gihyo.jp/news/report/2018/03/2001</link>
+  <description>2018年3月17日，奈良県立磯城野高等学校にて，奈良県内の高校生を対象とした実践型体験ワークショップ「つくりかたの未来講座」が開催された。</description>
+  <pubDate>Tue, 20 Mar 2018 15:33:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report">レポート</category>
+  <guid>http://gihyo.jp/news/report/2018/03/2001</guid> 
+  <author>馮富久</author>
+ </item>
+ <item>
+  <title>2018年度，日本数学会出版賞発表――『［改訂第7版］LaTeX2ε美文書作成入門』が受賞 ── ニュースリリース</title>
+  <link>http://gihyo.jp/news/nr/2018/03/2001</link>
+  <description>日本数学会は2018年3月7日，14回目となる日本数学会出版賞を発表し，同3月19日授賞式を行った。</description>
+  <pubDate>Tue, 20 Mar 2018 11:47:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>http://gihyo.jp/news/nr/2018/03/2001</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>第67回　SQLモードについて［その3］ ── MySQL道普請便り</title>
+  <link>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0067</link>
+  <description>第18回，第60回，第64回と，SQLモードについて3回にわたって紹介してきました。今回も引き続きSQLモードについて説明していきます。</description>
+  <pubDate>Tue, 20 Mar 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/mysql-road-construction-news">MySQL道普請便り</category>
+  <guid>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0067</guid> 
+  <author>木村浩一郎</author>
+ </item>
+ <item>
+  <title>2018年3月19日　GNOME 3.28 &quot;Chongqing&quot;がリリース，Ubuntu 18.04のデフォルトデスクトップに ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201803/19</link>
+  <description>GNOME Projectは3月14日，「GNOME 3.28」の正式提供開始を発表した。</description>
+  <pubDate>Mon, 19 Mar 2018 15:05:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201803/19</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>第35回　Meltdown and Spectre ── 書いて覚えるSwift入門</title>
+  <link>http://gihyo.jp/dev/serial/01/swift-introduction/0035</link>
+  <description>2018年最初の大ニュースといえば，本誌Software Designの読者には毎号おなじみの結城浩さん，ではなくてMeltdown and Spectre。</description>
+  <pubDate>Mon, 19 Mar 2018 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/swift-introduction">書いて覚えるSwift入門</category>
+  <guid>http://gihyo.jp/dev/serial/01/swift-introduction/0035</guid> 
+  <author>小飼弾</author>
+ </item>
+ <item>
+  <title>第123回　カード並べ ── きたみりゅうじの聞かせて珍プレー</title>
+  <link>http://gihyo.jp/dev/serial/01/funny-play/0123</link>
+  <description>私が新人のころなので約30年前のお話です。当時，某電気メーカーのメインフレームを使い，5～6人で仕事をしておりました。</description>
+  <pubDate>Mon, 19 Mar 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/funny-play">きたみりゅうじの聞かせて珍プレー</category>
+  <guid>http://gihyo.jp/dev/serial/01/funny-play/0123</guid> 
+  <author>きたみりゅうじ</author>
+ </item>
+ <item>
+  <title>2018年3月16日号　Spectre/Meltdown対策さらにさらにその後・新マイクロコードの配布の準備，FirefoxとChromiumのSnapパッケージ ── Ubuntu Weekly Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/ubuntu-topics/201803/16</link>
+  <description>“Spectre”対策において必要なIntelのマイクロコードの提供が再開されたため，Ubuntuでもintel-microcodeパッケージのテストが開始されています。</description>
+  <pubDate>Fri, 16 Mar 2018 10:11:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/ubuntu-topics/201803/16</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>第140回　AsiaBSDCon 2018 ── BSD界隈四方山話</title>
+  <link>http://gihyo.jp/admin/serial/01/bsd-yomoyama/0140</link>
+  <description>2018年3月8～11日までの4日間，*BSDの国際会議であるAsiaBSDCon 2018が開催されました。</description>
+  <pubDate>Fri, 16 Mar 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/bsd-yomoyama">BSD界隈四方山話</category>
+  <guid>http://gihyo.jp/admin/serial/01/bsd-yomoyama/0140</guid> 
+  <author>後藤大地</author>
+ </item>
+ <item>
+  <title>NTTスマートコネクト，クラウド上でセキュリティ機能を提供開始 ── ニュースリリース</title>
+  <link>http://gihyo.jp/news/nr/2018/03/1501</link>
+  <description>エヌ・ティ・ティ・スマートコネクト（株）は，2018年4月2日（月）より，ネットワークセキュリティ機能をクラウド上で提供する新たなサービス「SmartConnect Network &amp; Security」を開始する。</description>
+  <pubDate>Thu, 15 Mar 2018 18:19:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>http://gihyo.jp/news/nr/2018/03/1501</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>第1回　スマートスピーカーを支える技術 ── 優しいUI～ボイスユーザインターフェースで変わるコト</title>
+  <link>http://gihyo.jp/dev/serial/01/voiceui/0001</link>
+  <description>2017年，日本国内でいくつかのスマートスピーカーが登場しました。まず，その周辺の動向について紹介します。</description>
+  <pubDate>Thu, 15 Mar 2018 13:20:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/voiceui">優しいUI～ボイスユーザインターフェースで変わるコト</category>
+  <guid>http://gihyo.jp/dev/serial/01/voiceui/0001</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2018年3月第3週　次期OS「Android P」の開発者向けプレビュー版が公開 ── Android Weekly Topics</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/awt/201803/15</link>
+  <description>2018年3月第3週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 15 Mar 2018 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/awt/201803/15</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2018年3月第3週号 1位は，良い事例から学ぶランディングページを改善するためのヒント，気になるネタは，LINEのタブに「LINEウォレット」が出現--決済・金融サービスを集約 ── 週刊Webテク通信</title>
+  <link>http://gihyo.jp/design/clip/01/weekly-web-tech/201803/15</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2018年3月5日～3月11日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 15 Mar 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>http://gihyo.jp/design/clip/01/weekly-web-tech/201803/15</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>2018年3月14日　Ubuntu，圧縮アルゴリズムzstdをサポートへ ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201803/14</link>
+  <description>UbuntuのコアデベロッパJulian Andres Klodeは3月12日，Ubuntu 18.04 LTSから，圧縮アルゴリズム「zstd」をdpkgおよびaptパッケージの圧縮に実装することを明らかにした。</description>
+  <pubDate>Wed, 14 Mar 2018 18:02:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201803/14</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>第512回　AndroidのGemini PDAをUbuntu端末っぽく使う ── Ubuntu Weekly Recipe</title>
+  <link>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0512</link>
+  <description>今回はキーボード付きAndroid端末であるGemini PDAにTermuxをインストールして，Ubuntu端末っぽく使う方法を紹介します。</description>
+  <pubDate>Wed, 14 Mar 2018 10:15:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0512</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>レノボ・ジャパン，教育市場向けPC「Lenovo 300e」「Lenovo 500e」を発表，Chrome OSを搭載したICT端末 ── ニュースリリース</title>
+  <link>http://gihyo.jp/news/nr/2018/03/1301</link>
+  <description>レノボ・ジャパン株式会社は2018年3月13日，教育市場をターゲットにした端末「Lenovo 300e」「Lenovo 500e」を発表した。</description>
+  <pubDate>Tue, 13 Mar 2018 17:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>http://gihyo.jp/news/nr/2018/03/1301</guid> 
+  <author>馮富久</author>
+ </item>
+</channel>
+</rss>
